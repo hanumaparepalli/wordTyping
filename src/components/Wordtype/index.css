@@ -1,0 +1,60 @@
+.main-container {
+  background-color: aquamarine;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 35px;
+}
+.s-button {
+  margin: 20px;
+  background-color: bisque;
+}
+.paragraph {
+  color: black;
+  font-size: 35px;
+  font-weight: 500;
+  text-align: center;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.input {
+  color: black;
+  font-size: 25px;
+  font-weight: 300;
+  text-align: center;
+}
+.timer {
+  text-align: center;
+}
+.reset-btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.reset {
+  background-color: brown;
+}
+.output-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.wpm-para {
+  color: black;
+  font-size: 33px;
+  font-weight: 400;
+  margin-right: 30px;
+}
+.accuracy {
+  color: black;
+  font-size: 33px;
+  font-weight: 400;
+}
